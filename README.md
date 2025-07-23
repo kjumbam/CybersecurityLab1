@@ -1,5 +1,5 @@
 # CybersecurityLabs
-Lab activities for Security+ preparation and cybersecurity skills development.
+Lab activity for Security+ preparation and cybersecurity skills development.
 
 WHAT THIS PROJECT IS ABOUT
 
