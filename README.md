@@ -1,8 +1,6 @@
 # CybersecurityLabs
 Lab activity for Security+ preparation and cybersecurity skills development.
 
-🛠️ DNS Network Traffic Analysis Project
-
 PROJECT OVERVIEW
 This project involved investigating why users could not access a client’s website (www.yummyrecipesforme.com). When they tried, they saw an error saying “destination port unreachable.”
 As a cybersecurity analyst, I was responsible for finding out what went wrong by analyzing the network traffic.
@@ -29,12 +27,11 @@ FILES INCLUDED
 - Scenario Document – Describes the incident situation.
 - Incident Report PDF – My analysis and explanation of what happened.
 
-🚀 Skills Demonstrated
-
+SKILLS I LEARNED
 - Network Traffic Analysis.
 - Using tcpdump.
 - Problem identification and troubleshooting.
-- Writing professional incident reports
+- Writing professional incident reports.
 
 
 
