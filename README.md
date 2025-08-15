@@ -1,4 +1,4 @@
-# CybersecurityLabs
+# CybersecurityLab1
 Lab activity for Security+ preparation and cybersecurity skills development.
 
 PROJECT OVERVIEW
