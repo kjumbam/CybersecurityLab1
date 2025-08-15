@@ -1,5 +1,5 @@
 # CybersecurityLab1
-Lab activity for Security+ preparation and cybersecurity skills development.
+Lab activity for cybersecurity skills development.
 
 PROJECT OVERVIEW
 This project involved investigating why users could not access a client’s website (www.yummyrecipesforme.com). When they tried, they saw an error saying “destination port unreachable.”
